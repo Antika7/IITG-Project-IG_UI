@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195088979125",
+    "project_id": "iitg-igclone",
+    "storage_bucket": "iitg-igclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195088979125:android:bf7042df811e7767581afc",
+        "android_client_info": {
+          "package_name": "com.example.week2_instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195088979125-tuk405m6qp3g140v6b2ib5utuulksg14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZGayYZ4ZJD3WiYfMLbxz4PEx3M5W-_oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195088979125-tuk405m6qp3g140v6b2ib5utuulksg14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
